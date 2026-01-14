@@ -36,7 +36,7 @@
 
 [加法器-半加器、全加器与超前进位加法器](https://blog.csdn.net/vivid117/article/details/91980665#comments)
 
-[Brent-Kung树形加法器原理与设计](https://blog.csdn.net/zhouxuanyuye/article/details/104034586)
+[Brent-Kung树形加法器原理与设计]([https://blog.csdn.net/zhouxuanyuye/article/details/104034586](https://zhuanlan.zhihu.com/p/103392714))
 
 [乘法器相关的知识包括Booth乘法器](./src/docs/Verilog_HDL_那些事儿_时序篇v2.pdf)
 
